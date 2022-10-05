@@ -1,0 +1,15 @@
+/conf/app.conf
+/routers/commentsRouter_*.go
+/swagger/
+/static/assets/*
+!static/assets/.gitkeep
+/var/*
+!/var/sessions
+/var/sessions/*
+!var/sessions/.gitkeep
+
+go-api-vue-js
+lastupdate.tmp
+
+/node_modules/
+/.idea/
